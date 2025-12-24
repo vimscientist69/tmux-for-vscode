@@ -18,7 +18,7 @@ TMUX is a terminal multiplexer. For more information, watch [TMUX in 100 Seconds
 
 ## Known Issues
 
-- No known issues, you can open issues here -> https://github.com/WilliamFernsV3/tmux-for-vscode
+- No known issues, you can open issues here -> https://github.com/vimscientist69/tmux-for-vscode
 - Your contributions in the issues would be appreciated
 
 ## Release Notes
