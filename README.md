@@ -1,7 +1,6 @@
 # TMUX for VSCode README
 
-![TMUX for VSCode Image](./tmux-for-vscode.png)
-
+<img width="1350" height="840" alt="vscode-tmux" src="https://github.com/user-attachments/assets/7f918b98-73c5-4397-8a77-89be58b24b88" />
 
 This is an extension that allows has direct integration of TMUX inside VS Code.
 TMUX is a terminal multiplexer. For more information, watch [TMUX in 100 Seconds](https://www.youtube.com/watch?v=vtB1J_zCv8I) by Fireship.
